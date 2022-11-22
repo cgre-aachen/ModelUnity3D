@@ -249,41 +249,6 @@ namespace Gempy
                 Debug.Log($"{allPoints.Count.ToString()}, Key = {kvp.Key}, Value = {string.Join(", ", kvp.Value)}");
             }
         }
-        
-        
-        // NOT NEEDED ANYMORE
-        // public void SortSurfacePoints()
-        // {
-        //     inputs.Interfaces.Sort(SortByID);
-        //     inputs.Orientations.Sort(SortByID);
-        // }
-        //
-        // private int SortByID(Interface a, Interface b)
-        // {
-        //     if (a.Id < b.Id)
-        //     {
-        //         return -1;
-        //     }
-        //     else if (a.Id > b.Id)
-        //     {
-        //         return 1;
-        //     }
-        //
-        //     return 0;
-        // }
-        // private int SortByID(Orientation a, Orientation b)
-        // {
-        //     if (a.Id < b.Id)
-        //     {
-        //         return -1;
-        //     }
-        //     else if (a.Id > b.Id)
-        //     {
-        //         return 1;
-        //     }
-        //
-        //     return 0;
-        // }
 
         public void CountPoints(List<SurfacePoint> surfacePoints)
         {
