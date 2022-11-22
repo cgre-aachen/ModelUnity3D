@@ -1,0 +1,19 @@
+{
+    "name": "API",
+    "rootNamespace": "",
+    "references": [
+        "Core",
+        "DataAssembler",
+        "REST_API",
+        "GemPlay.Modules.TexturedMesh"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

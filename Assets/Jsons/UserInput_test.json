@@ -1,0 +1,69 @@
+{
+  "Interface_points": [],
+  "Orientation_points": [
+    {
+      "X": 5.0,
+      "Y": 0.0,
+      "Z": 0.0,
+      "Azimuth": 274.349976,
+      "Inclination": 46.2000122,
+      "Polarity": 1.0,
+      "Id": 0,
+      "Stack": 0,
+      "Color": [
+        0.735849,
+        0.1,
+        0.0242969152,
+        0.0
+      ]
+    },
+    {
+      "X": 10.0,
+      "Y": 4.0,
+      "Z": 0.0,
+      "Azimuth": 90.0,
+      "Inclination": 0.0,
+      "Polarity": 1.0,
+      "Id": 1,
+      "Stack": 0,
+      "Color": [
+        0.5,
+        0.9,
+        0.0242969152,
+        0.0
+      ]
+    },
+    {
+      "X": 13.0,
+      "Y": 0.0,
+      "Z": 0.0,
+      "Azimuth": 101.86,
+      "Inclination": 67.21001,
+      "Polarity": 1.0,
+      "Id": 2,
+      "Stack": 0,
+      "Color": [
+        0.5,
+        0.1,
+        0.5,
+        0.0
+      ]
+    },
+    {
+      "X": 7.8,
+      "Y": 2.34,
+      "Z": 0.0,
+      "Azimuth": 283.66,
+      "Inclination": 53.26001,
+      "Polarity": -1.0,
+      "Id": 3,
+      "Stack": 0,
+      "Color": [
+        0.07,
+        0.07,
+        0.8,
+        0.0
+      ]
+    }
+  ]
+}

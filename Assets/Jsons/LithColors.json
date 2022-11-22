@@ -1,0 +1,1067 @@
+{
+  "Unconsolidated material": [
+    253,
+    244,
+    63
+  ],
+  "Alluvium": [
+    255,
+    255,
+    137
+  ],
+  "Silt": [
+    255,
+    211,
+    69
+  ],
+  "Sand": [
+    255,
+    203,
+    35
+  ],
+  "Flood plain": [
+    255,
+    255,
+    213
+  ],
+  "Gravel": [
+    236,
+    180,
+    0
+  ],
+  "Levee": [
+    255,
+    250,
+    233
+  ],
+  "Delta": [
+    255,
+    250,
+    200
+  ],
+  "Alluvial fan": [
+    255,
+    255,
+    183
+  ],
+  "Alluvial terrace": [
+    250,
+    238,
+    122
+  ],
+  "Lake or marine sediment": [
+    244,
+    239,
+    228
+  ],
+  "Playa": [
+    241,
+    229,
+    223
+  ],
+  "Mud flat": [
+    228,
+    208,
+    190
+  ],
+  "Beach sand": [
+    228,
+    216,
+    190
+  ],
+  "Terrace": [
+    255,
+    246,
+    217
+  ],
+  "Eolian material": [
+    224,
+    197,
+    158
+  ],
+  "Dune sand": [
+    224,
+    210,
+    180
+  ],
+  "Sand sheet": [
+    219,
+    204,
+    169
+  ],
+  "Loess": [
+    245,
+    225,
+    189
+  ],
+  "Volcanic ash": [
+    224,
+    176,
+    158
+  ],
+  "Mass wasting material": [
+    207,
+    187,
+    143
+  ],
+  "Colluvium": [
+    225,
+    227,
+    195
+  ],
+  "Mudflow": [
+    229,
+    219,
+    179
+  ],
+  "Lahar": [
+    220,
+    213,
+    180
+  ],
+  "Debris flow": [
+    211,
+    202,
+    159
+  ],
+  "Landslide": [
+    201,
+    190,
+    137
+  ],
+  "Talus": [
+    188,
+    175,
+    108
+  ],
+  "Glacial drift": [
+    191,
+    167,
+    67
+  ],
+  "Till": [
+    210,
+    194,
+    124
+  ],
+  "Moraine": [
+    255,
+    238,
+    191
+  ],
+  "Stratified glacial sediment": [
+    255,
+    229,
+    157
+  ],
+  "Glacial outwash sediment": [
+    255,
+    223,
+    133
+  ],
+  "Sub/supra-glacial sediment": [
+    254,
+    230,
+    112
+  ],
+  "Glaciolacustrine sediment": [
+    254,
+    226,
+    88
+  ],
+  "Glacial-marine sediment": [
+    254,
+    219,
+    46
+  ],
+  "Biogenic material": [
+    247,
+    243,
+    161
+  ],
+  "Peat": [
+    255,
+    207,
+    129
+  ],
+  "Coral": [
+    255,
+    204,
+    153
+  ],
+  "Residuum": [
+    255,
+    227,
+    137
+  ],
+  "Clay or mud": [
+    255,
+    219,
+    103
+  ],
+  "Sedimentary rock": [
+    146,
+    220,
+    183
+  ],
+  "Clastic rock": [
+    217,
+    253,
+    211
+  ],
+  "Mudstone": [
+    207,
+    239,
+    223
+  ],
+  "Claystone": [
+    213,
+    230,
+    204
+  ],
+  "Bentonite": [
+    192,
+    208,
+    192
+  ],
+  "Shale": [
+    172,
+    228,
+    200
+  ],
+  "Black shale": [
+    219,
+    254,
+    188
+  ],
+  "Oil shale": [
+    187,
+    255,
+    221
+  ],
+  "Argillite": [
+    225,
+    240,
+    216
+  ],
+  "Siltstone": [
+    214,
+    254,
+    154
+  ],
+  "Fine-grained mixed clastic rock": [
+    149,
+    255,
+    202
+  ],
+  "Sandstone": [
+    205,
+    255,
+    217
+  ],
+  "Arenite": [
+    166,
+    252,
+    170
+  ],
+  "Orthoquartzite": [
+    203,
+    239,
+    206
+  ],
+  "Calcarenite": [
+    154,
+    206,
+    254
+  ],
+  "Arkose": [
+    105,
+    207,
+    156
+  ],
+  "Wacke": [
+    189,
+    219,
+    241
+  ],
+  "Graywacke": [
+    184,
+    234,
+    195
+  ],
+  "Medium-grained mixed clastic rock": [
+    144,
+    165,
+    101
+  ],
+  "Conglomerate": [
+    183,
+    217,
+    204
+  ],
+  "Sedimentary breccia": [
+    167,
+    186,
+    134
+  ],
+  "Coarse-grained mixed clastic rock": [
+    165,
+    170,
+    173
+  ],
+  "Olistostrome": [
+    141,
+    190,
+    205
+  ],
+  "M\u00e9lange": [
+    187,
+    192,
+    197
+  ],
+  "Carbonate rock": [
+    86,
+    224,
+    252
+  ],
+  "Limestone": [
+    67,
+    175,
+    249
+  ],
+  "Dolostone": [
+    107,
+    195,
+    255
+  ],
+  "Mixed carbonate/clastic rock": [
+    56,
+    180,
+    177
+  ],
+  "Mixed volcanic/clastic rock": [
+    96,
+    204,
+    191
+  ],
+  "Phosphorite": [
+    191,
+    227,
+    220
+  ],
+  "Chemical sedimentary rock": [
+    205,
+    222,
+    255
+  ],
+  "Evaporite": [
+    1,
+    156,
+    205
+  ],
+  "Chert": [
+    154,
+    191,
+    192
+  ],
+  "Novaculite": [
+    192,
+    174,
+    182
+  ],
+  "Iron formation": [
+    185,
+    149,
+    152
+  ],
+  "Exhalite": [
+    217,
+    194,
+    163
+  ],
+  "Coal": [
+    130,
+    0,
+    65
+  ],
+  "Mixed coal/clastic rock": [
+    110,
+    73,
+    9
+  ],
+  "Volcanic rock": [
+    255,
+    183,
+    222
+  ],
+  "Glassy volcanic rock": [
+    255,
+    195,
+    228
+  ],
+  "Obsidian": [
+    255,
+    209,
+    234
+  ],
+  "Vitrophyre": [
+    255,
+    195,
+    248
+  ],
+  "Pumice": [
+    255,
+    229,
+    243
+  ],
+  "Pyroclastic rock": [
+    255,
+    224,
+    222
+  ],
+  "Tuff": [
+    249,
+    211,
+    211
+  ],
+  "welded tuff": [
+    255,
+    243,
+    201
+  ],
+  "Ash-flow tuff": [
+    255,
+    239,
+    217
+  ],
+  "Ignimbrite": [
+    255,
+    229,
+    195
+  ],
+  "Volcanic breccia": [
+    255,
+    213,
+    157
+  ],
+  "Lava flow": [
+    255,
+    162,
+    39
+  ],
+  "Bimodal suite": [
+    255,
+    193,
+    111
+  ],
+  "Felsic volcanic rock": [
+    244,
+    139,
+    0
+  ],
+  "Alkali-feldspar rhyolite": [
+    254,
+    220,
+    126
+  ],
+  "Rhyolite": [
+    254,
+    204,
+    104
+  ],
+  "Rhyodacite": [
+    254,
+    198,
+    42
+  ],
+  "Dacite": [
+    254,
+    205,
+    172
+  ],
+  "Alkali-feldspar trachyte": [
+    254,
+    183,
+    134
+  ],
+  "Trachyte": [
+    254,
+    160,
+    96
+  ],
+  "Quartz latite": [
+    254,
+    135,
+    54
+  ],
+  "Latite": [
+    254,
+    117,
+    24
+  ],
+  "Intermediate volcanic rock": [
+    235,
+    96,
+    1
+  ],
+  "Trachyandesite": [
+    201,
+    82,
+    1
+  ],
+  "Andesite": [
+    177,
+    72,
+    1
+  ],
+  "Mafic volcanic rock": [
+    147,
+    60,
+    1
+  ],
+  "Trachybasalt": [
+    236,
+    213,
+    198
+  ],
+  "Basalt": [
+    221,
+    179,
+    151
+  ],
+  "Tholeiite": [
+    211,
+    157,
+    121
+  ],
+  "Hawaiite": [
+    198,
+    128,
+    80
+  ],
+  "Alkaline basalt": [
+    169,
+    101,
+    55
+  ],
+  "Alkalic volcanic rock": [
+    194,
+    65,
+    0
+  ],
+  "Phonolite": [
+    95,
+    57,
+    31
+  ],
+  "Tephrite": [
+    133,
+    79,
+    43
+  ],
+  "Ultramafitite": [
+    160,
+    53,
+    0
+  ],
+  "Volcanic carbonatite": [
+    110,
+    37,
+    0
+  ],
+  "Plutonic rock": [
+    252,
+    110,
+    124
+  ],
+  "Aplite": [
+    255,
+    193,
+    183
+  ],
+  "Porphyry": [
+    255,
+    225,
+    232
+  ],
+  "Lamprophyre": [
+    228,
+    88,
+    145
+  ],
+  "Pegmatite": [
+    255,
+    239,
+    243
+  ],
+  "Granitoid": [
+    221,
+    41,
+    114
+  ],
+  "Alkali-feldspar granite": [
+    255,
+    209,
+    220
+  ],
+  "Quartz monzodiorite": [
+    255,
+    129,
+    159
+  ],
+  "Monzodiorite": [
+    255,
+    169,
+    157
+  ],
+  "Quartz diorite": [
+    232,
+    28,
+    0
+  ],
+  "Diorite": [
+    255,
+    51,
+    23
+  ],
+  "Diabase": [
+    214,
+    0,
+    0
+  ],
+  "Granite": [
+    249,
+    181,
+    187
+  ],
+  "Peraluminous granite": [
+    248,
+    190,
+    174
+  ],
+  "Metaluminous granite": [
+    255,
+    179,
+    197
+  ],
+  "Subaluminous granite": [
+    255,
+    111,
+    107
+  ],
+  "Peralkaline granite": [
+    252,
+    82,
+    98
+  ],
+  "Granodiorite": [
+    233,
+    121,
+    166
+  ],
+  "Tonalite": [
+    252,
+    182,
+    182
+  ],
+  "Trondhjemite": [
+    255,
+    167,
+    188
+  ],
+  "Alkali-feldspar syenite": [
+    244,
+    60,
+    108
+  ],
+  "Quartz syenite": [
+    251,
+    35,
+    56
+  ],
+  "Syenite": [
+    244,
+    26,
+    135
+  ],
+  "Quartz monzonite": [
+    255,
+    99,
+    136
+  ],
+  "Monzonite": [
+    255,
+    39,
+    90
+  ],
+  "Gabbroid": [
+    172,
+    0,
+    0
+  ],
+  "Quartz monzogabbro": [
+    255,
+    111,
+    91
+  ],
+  "Monzogabbro": [
+    227,
+    119,
+    173
+  ],
+  "Quartz gabbro": [
+    237,
+    167,
+    202
+  ],
+  "Gabbro": [
+    233,
+    147,
+    190
+  ],
+  "Norite": [
+    255,
+    214,
+    209
+  ],
+  "Troctolite": [
+    255,
+    191,
+    206
+  ],
+  "Anorthosite": [
+    255,
+    149,
+    174
+  ],
+  "Alkalic intrusive rock": [
+    255,
+    111,
+    145
+  ],
+  "Nepheline syenite": [
+    255,
+    27,
+    81
+  ],
+  "Ultramafic intrusive rock": [
+    232,
+    0,
+    55
+  ],
+  "Peridotite": [
+    206,
+    0,
+    49
+  ],
+  "Dunite": [
+    176,
+    0,
+    42
+  ],
+  "Kimberlite": [
+    193,
+    1,
+    10
+  ],
+  "Pyroxenite": [
+    148,
+    0,
+    35
+  ],
+  "Hornblendite": [
+    163,
+    1,
+    9
+  ],
+  "Intrusive carbonatite": [
+    117,
+    1,
+    7
+  ],
+  "Metamorphic rock": [
+    167,
+    167,
+    255
+  ],
+  "Hornfels": [
+    234,
+    175,
+    255
+  ],
+  "Eclogite": [
+    206,
+    157,
+    255
+  ],
+  "Greisen": [
+    164,
+    73,
+    255
+  ],
+  "Skarn": [
+    129,
+    3,
+    255
+  ],
+  "Calc-silicate rock": [
+    70,
+    0,
+    140
+  ],
+  "Serpentinite": [
+    0,
+    92,
+    0
+  ],
+  "Metasedimentary rock": [
+    125,
+    255,
+    125
+  ],
+  "Meta-argillite": [
+    201,
+    255,
+    201
+  ],
+  "Slate": [
+    230,
+    205,
+    255
+  ],
+  "Quartzite": [
+    159,
+    255,
+    159
+  ],
+  "Metaconglomerate": [
+    233,
+    255,
+    233
+  ],
+  "Marble": [
+    0,
+    0,
+    255
+  ],
+  "Metavolcanic rock": [
+    255,
+    87,
+    255
+  ],
+  "Felsic metavolcanic rock": [
+    255,
+    141,
+    255
+  ],
+  "Metarhyolite": [
+    255,
+    167,
+    255
+  ],
+  "Keratophyre": [
+    254,
+    103,
+    0
+  ],
+  "Intermediate metavolcanic rock": [
+    255,
+    0,
+    0
+  ],
+  "Mafic metavolcanic rock": [
+    185,
+    59,
+    104
+  ],
+  "Metabasalt": [
+    135,
+    43,
+    76
+  ],
+  "Spilite": [
+    201,
+    85,
+    126
+  ],
+  "Greenstone": [
+    0,
+    128,
+    0
+  ],
+  "Phyllite": [
+    180,
+    207,
+    228
+  ],
+  "Schist": [
+    219,
+    219,
+    231
+  ],
+  "Greenschist": [
+    237,
+    237,
+    243
+  ],
+  "Blueschist": [
+    192,
+    192,
+    192
+  ],
+  "Mica schist": [
+    177,
+    177,
+    177
+  ],
+  "Pelitic schist": [
+    202,
+    202,
+    220
+  ],
+  "Quartz-feldspar schist": [
+    162,
+    162,
+    192
+  ],
+  "Calc-silicate schist": [
+    182,
+    182,
+    206
+  ],
+  "Amphibole schist": [
+    150,
+    150,
+    150
+  ],
+  "Granofels": [
+    163,
+    55,
+    253
+  ],
+  "Gneiss": [
+    236,
+    214,
+    254
+  ],
+  "Felsic gneiss": [
+    224,
+    188,
+    254
+  ],
+  "Granitic gneiss": [
+    213,
+    164,
+    254
+  ],
+  "Biotite gneiss": [
+    200,
+    134,
+    254
+  ],
+  "Mafic gneiss": [
+    204,
+    183,
+    255
+  ],
+  "Orthogneiss": [
+    179,
+    149,
+    255
+  ],
+  "Paragneiss": [
+    144,
+    99,
+    255
+  ],
+  "Migmatite": [
+    159,
+    0,
+    202
+  ],
+  "Amphibolite": [
+    123,
+    0,
+    156
+  ],
+  "Granulite": [
+    106,
+    0,
+    106
+  ],
+  "Tectonite": [
+    132,
+    97,
+    62
+  ],
+  "Tectonic m\u00e9lange": [
+    208,
+    203,
+    176
+  ],
+  "Tectonic breccia": [
+    176,
+    167,
+    120
+  ],
+  "Cataclasite": [
+    136,
+    127,
+    80
+  ],
+  "Phyllonite": [
+    172,
+    127,
+    80
+  ],
+  "Mylonite": [
+    109,
+    80,
+    51
+  ],
+  "Flaser gneiss": [
+    100,
+    2,
+    11
+  ],
+  "Augen gneiss": [
+    136,
+    127,
+    80
+  ],
+  "ice": [
+    255,
+    255,
+    255
+  ],
+  "water": [
+    153,
+    204,
+    255
+  ],
+  "Agglomerate": [
+    255,
+    213,
+    157
+  ],
+  "Alaskite": [
+    255,
+    209,
+    220
+  ],
+  "Basanite": [
+    133,
+    79,
+    43
+  ],
+  "Dolomite": [
+    107,
+    195,
+    255
+  ],
+  "Komatiite": [
+    160,
+    53,
+    0
+  ]
+}
