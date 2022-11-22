@@ -7,3 +7,4 @@ In a running Unity scene, you should then see (choosing the Spawner object), but
 
 The basic Interface in Unity looks like this (with an loaded model data from an example):
 
+![image](https://raw.githubusercontent.com/cgre-aachen/ModelUnity3D/main/imgs/interface.PNG)
